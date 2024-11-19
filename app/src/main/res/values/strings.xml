@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Yoga Class Manager</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="class_details">Class Details</string>
+
+    <string-array name="days_of_week">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+</resources>

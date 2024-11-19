@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.YogaU" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/primaryDarkColor</item>
+        <item name="colorAccent">@color/accentColor</item>
+    </style>
+
+<!--    &lt;!&ndash; Custom DatePickerDialog theme &ndash;&gt;-->
+<!--    <style name="CustomDatePickerDialog" parent="Theme.AppCompat.Light.Dialog">-->
+<!--        <item name="colorAccent">@color/accentColor</item>-->
+<!--        <item name="android:textColorPrimary">@color/primaryColor</item>-->
+<!--        <item name="android:textColorSecondary">@color/secondaryColor</item>-->
+<!--        <item name="android:headerBackground">@color/primaryColor</item>-->
+<!--        <item name="android:datePickerStyle">@style/CustomDatePicker</item>-->
+<!--    </style>-->
+
+<!--    &lt;!&ndash; Custom DatePicker style &ndash;&gt;-->
+<!--    <style name="CustomDatePicker" parent="android:Widget.Material.DatePicker">-->
+<!--        <item name="android:headerBackground">@color/primaryColor</item>-->
+<!--&lt;!&ndash;        <item name="android:headerTextColor">@color/white</item>&ndash;&gt;-->
+<!--        <item name="android:calendarTextColor">@color/primaryDarkColor</item>-->
+<!--    </style>-->
+
+    <style name="Theme.YogaU" parent="Base.Theme.YogaU" />
+</resources>
